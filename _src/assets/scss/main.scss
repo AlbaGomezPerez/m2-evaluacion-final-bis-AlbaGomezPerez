@@ -8,3 +8,23 @@ body {
   display: flex;
   display: inline-block;
 }
+
+.cards-space{
+  height: 100vh;
+  background-color: palegoldenrod;
+}
+
+.pokemonCharacter{
+  display: flex;
+  display: inline-block;
+  margin: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: salmon;
+  height: 300px;
+  width: 200px;
+}
+
+.hidden{
+  display: none;
+}
